@@ -1,0 +1,3 @@
+secret.txt
+# This is a comment.
+#  *.xxx represents all files with .xxx to be ignored
